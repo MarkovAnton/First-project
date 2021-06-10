@@ -8,3 +8,4 @@ def split_data(train):
         test_size=0.2,
         random_state=48)
     return train_X, test_X, train_y, test_y
+
