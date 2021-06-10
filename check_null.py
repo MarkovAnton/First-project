@@ -3,3 +3,4 @@ def check(train, test):
     print(test.info())
     print(train.isna().mean())
     print(test.isna().mean())
+
