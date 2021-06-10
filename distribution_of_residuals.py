@@ -7,3 +7,4 @@ def distrib_of_residual(residuals):
     plt.ylabel('Count')
     plt.title('Distribution of Residuals')
     plt.show()
+
