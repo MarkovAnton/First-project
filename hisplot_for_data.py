@@ -9,3 +9,4 @@ def his_plot(train):
     sns.histplot(data=pl, x='sales', bins=40)
     plt.title('Sales bar chart')
     plt.show()
+
