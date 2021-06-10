@@ -8,3 +8,4 @@ def corr_data(train):
     plt.title('Сorrelation for data')
     plt.show()
     return correlations_data
+
